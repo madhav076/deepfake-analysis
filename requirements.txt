@@ -1,0 +1,8 @@
+tensorflow
+streamlit
+numpy
+pillow
+opencv-python
+requests
+reportlab
+easyocr
